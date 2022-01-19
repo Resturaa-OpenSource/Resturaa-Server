@@ -1,3 +1,35 @@
+<div align="center">
+  
+  <br />
+  <p>
+    <h3>
+      <b>
+        Resturaa-Server
+      </b>
+    </h3>
+  </p>
+  <p>
+    <b>
+      Open source API development ecosystem
+    </b>
+  </p>
+  <p>
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?logo=github)](CODE_OF_CONDUCT.md)  
+
+  </p>
+  <p>
+    <sub>
+      Built with ❤︎ by
+      <a href="https://github.com/Resturaa-OpenSource/Resturaa-Server/graphs/contributors">
+        contributors
+      </a>
+    </sub>
+  </p>
+  <br />
+ 
+</div>
+
 # Resturaa-Server
 **RESTURA is a restaurant management system designed to assist you in building, maintaining and growing your business while consistently offering remarkable 
 experiences to your valuable customers.**
